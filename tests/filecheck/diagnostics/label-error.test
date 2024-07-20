@@ -10,7 +10,7 @@ world:
 
 // CHECK-LABEL: hello
 // CHECK-NOT: d
-// CHECK-LABEL: woupsrld
+// CHECK-LABEL: woopsrld
 // CHECK: d
 
-// DIAG: Could not find label 'woupsrld' in input
+// DIAG: Could not find label 'woopsrld' in input
